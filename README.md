@@ -26,4 +26,6 @@ JavaScript Provides interactivity and dynamic functionality to the website, such
 # Responsive Design
 This coffee shop website is designed to be responsive, ensuring a seamless and visually appealing experience across different devices and screen sizes. Whether accessed on a desktop, laptop, tablet, or smartphone, the website adapts its layout and content to provide optimal readability and usability.
 
-![responsiv full Coffe Website](https://github.com/yehanshash/Coffee_Shop/assets/109692975/07172261-d90a-4070-97aa-1fca446fa0ca)
+
+![responsiv Coffe Website - preview](https://github.com/yehanshash/Coffee_Shop/assets/109692975/9618bc44-87ba-42d7-b544-ec48708f9693)
+
